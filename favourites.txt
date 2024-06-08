@@ -10,3 +10,5 @@ Food 3
 Movie 1
 Movie 2
 Movie 3
+
+Rise & Shine
