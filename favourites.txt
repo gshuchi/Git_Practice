@@ -12,3 +12,5 @@ Movie 2
 Movie 3
 
 Rise & Shine
+
+Let's get started
