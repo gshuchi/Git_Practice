@@ -4,11 +4,6 @@ Orange
 Banana
 PineApple
 
-
-Movie A
-Movie B
-Movie C
-
 Rise & Shine
 
 Let's get started
