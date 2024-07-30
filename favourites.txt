@@ -3,6 +3,25 @@ Mango
 Orange
 Banana
 PineApple
+
 BeetRoot
 There are numerious fruits
 Hence, EAT FRUITS.
+=======
+
+Movie A
+Movie B
+Movie C
+
+Movie 1
+Movie 2
+Movie 3
+
+Rise & Shine
+
+Let's get started
+
+
+Movie 1
+Movie 2
+Movie 3
