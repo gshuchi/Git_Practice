@@ -3,8 +3,10 @@ Mango
 Orange
 Banana
 PineApple
+
 Rise & Shine
 Let's get started
+
 Movie 1
 Movie 2
 Movie 3
